@@ -38,4 +38,4 @@ It also includes a semantic lexicon partly based on data from the [PROIEL projec
 ## How to cite
 This data is available under a [CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/). Please refer to the following paper when using the labeler or any of the data included:
 
-*(to be added)*
+Keersmaekers, Alek. 2020. “Automatic Semantic Role Labeling in Ancient Greek Using Distributional Semantic Modeling.” In Proceedings of LT4HALA 2020 - 1st Workshop on Language Technologies for Historical and Ancient Languages, 59–67. Marseille: European Language Resources Association (ELRA). https://www.aclweb.org/anthology/2020.lt4hala-1.9.
